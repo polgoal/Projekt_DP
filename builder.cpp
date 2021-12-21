@@ -4,7 +4,7 @@
 *   www.algorytm.org                    *
 *   Opracowal Dworak Kamil              *
 *****************************************/
- 
+// ver 1.1 
 #include <iostream>
 #include <string>
 using namespace std;
